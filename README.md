@@ -1,4 +1,4 @@
-# Howdy, rulers of the repos!" 👋
+# Howdy!" 👋
 
 Bengt here, navigating the cloud and DevOps realms.
 
