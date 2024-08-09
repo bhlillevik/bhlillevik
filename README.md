@@ -1,4 +1,4 @@
-# Hallaien!" 👋
+# Hallaien! 👋
 
 Bengt here, currently working my way through Cloud and DevOps landscapes.
 
