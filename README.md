@@ -1,15 +1,15 @@
-# Howdy!" 👋
+# Hallaien!" 👋
 
-Bengt here, navigating the cloud and DevOps realms.
+Bengt here, currently working my way through Cloud and DevOps landscapes.
 
-Always ready for new tasks and opportunities that challenge my skills and knowledge.
+Always ready for new tasks and opportunities that push my skills and knowledge forward.
 
 ## 🔍 About Me
 
 - 🇳🇴 From Norway
 - 🏢 Currently working at [Devoteam M Cloud Norway](https://mcloud.devoteam.com/)
 - 👷 Role: Senior Cloud and Devops Engineer
-- 💡 Learning more about GitHub Actions and Azure AVD
+- 💡 Learning more about Azure AVD and DevOps
 - 🌪️ Transitioning from an on-premises background, my current focus is on migrating everything to the cloud.
 
 ## 🖥️ Work in progress
